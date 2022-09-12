@@ -11,4 +11,4 @@ else{
     return "non palindrome"
 }
 }
-console.log(palindrome("malayam"))
+console.log(palindrome("abcd"))
